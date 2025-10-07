@@ -119,7 +119,7 @@ Exemplo de estrutura:
 Este projeto consolida os principais conceitos de modelagem de bancos de dados relacionais e manipulação SQL em um cenário de **e-commerce completo e realista**, incluindo refinamentos práticos exigidos pelo desafio.
 
 ---
-👨‍💻 **Autor:** [Seu Nome Aqui]
+👨‍💻 **Autor:** Robespierre
 📅 **Data:** 2025-10-06
 📘 **Banco:** MySQL 8+
 🌐 **Licença:** MIT
